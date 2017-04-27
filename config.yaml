@@ -1,0 +1,6 @@
+{transforms:
+  [[bonsai, bonsai_config.txt],
+  ],
+nframes_chunk: 512,
+address: 192.168.2.28,
+port: 2053,}

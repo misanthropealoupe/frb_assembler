@@ -1,3 +1,7 @@
+# project folders
+src
+test
+
 # Compiled Object files
 *.slo
 *.lo

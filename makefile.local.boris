@@ -1,0 +1,8 @@
+PYTHON_INC = /usr/include/python2.7
+NUMPY_CINC = /usr/lib64/python2.7/site-packages/numpy/core/include
+
+INCDIR2=/usr/include/jsoncpp
+NPINCDIR=/usr/lib64/python2.7/site-packages/numpy/core/include/
+
+LIB = /usr/lib64
+INC = /usr/include
